@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url('https://media.giphy.com/media/LM7f6EBA8ilsK1eZhw/giphy.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    color: white;
+}
+#description{
+    color: white;
+}
+section{
+    border-radius: 55px;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+   background-color: rgb(240, 240, 240);
+   padding: 30px;
+   width: 900px;
+   margin: auto;
+ }
